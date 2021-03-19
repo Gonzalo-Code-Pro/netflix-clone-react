@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+.app{
+  color: #fff;
+  background: #111;
+}
+.rows{
+    margin-top:-8em;
+    margin-left: 1em;
+}
+
