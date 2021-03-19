@@ -43,7 +43,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `Web Demo`
  
-Demo web site link : [Create React App documentation](https://https://netflix-clone-a9d90.web.app/).
+Demo web site [Demo Link](https://netflix-clone-a9d90.web.app/).
 
      
 ## Learn More
